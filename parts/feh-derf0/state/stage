@@ -1,0 +1,24 @@
+!StageState
+directories: !!set {usr: null, usr/local: null, usr/local/bin: null, usr/local/share: null,
+  usr/local/share/applications: null, usr/local/share/doc: null, usr/local/share/doc/feh: null,
+  usr/local/share/doc/feh/examples: null, usr/local/share/feh: null, usr/local/share/feh/fonts: null,
+  usr/local/share/feh/images: null, usr/local/share/icons: null, usr/local/share/icons/hicolor: null,
+  usr/local/share/icons/hicolor/48x48: null, usr/local/share/icons/hicolor/48x48/apps: null,
+  usr/local/share/icons/hicolor/scalable: null, usr/local/share/icons/hicolor/scalable/apps: null,
+  usr/local/share/man: null, usr/local/share/man/man1: null}
+files: !!set {usr/local/bin/feh: null, usr/local/share/applications/feh.desktop: null,
+  usr/local/share/doc/feh/AUTHORS: null, usr/local/share/doc/feh/ChangeLog: null,
+  usr/local/share/doc/feh/README.md: null, usr/local/share/doc/feh/TODO: null, usr/local/share/doc/feh/examples/buttons: null,
+  usr/local/share/doc/feh/examples/find-lowres: null, usr/local/share/doc/feh/examples/keys: null,
+  usr/local/share/doc/feh/examples/themes: null, usr/local/share/feh/fonts/black.style: null,
+  usr/local/share/feh/fonts/menu.style: null, usr/local/share/feh/fonts/yudit.ttf: null,
+  usr/local/share/feh/images/feh.png: null, usr/local/share/feh/images/feh.svg: null,
+  usr/local/share/feh/images/menubg_aluminium.png: null, usr/local/share/feh/images/menubg_aqua.png: null,
+  usr/local/share/feh/images/menubg_black.png: null, usr/local/share/feh/images/menubg_brushed.png: null,
+  usr/local/share/feh/images/menubg_default.png: null, usr/local/share/feh/images/menubg_sky.png: null,
+  usr/local/share/icons/hicolor/48x48/apps/feh.png: null, usr/local/share/icons/hicolor/scalable/apps/feh.svg: null,
+  usr/local/share/man/man1/feh.1: null}
+project_options: {}
+properties:
+  filesets: {}
+  stage: ['*']

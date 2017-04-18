@@ -1,0 +1,15 @@
+!PullState
+assets:
+  stage-packages: []
+project_options: {deb_arch: amd64}
+properties:
+  plugin: make
+  source: https://feh.finalrewind.org/feh-2.18.3.tar.bz2
+  source-branch: ''
+  source-commit: ''
+  source-depth: 0
+  source-subdir: ''
+  source-tag: ''
+  source-type: ''
+  stage-packages: []
+schema_properties: []

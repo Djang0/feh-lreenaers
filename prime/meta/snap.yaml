@@ -1,0 +1,15 @@
+apps:
+  feh:
+    command: command-feh.wrapper
+architectures:
+- amd64
+confinement: strict
+description: "feh is an X11 image viewer aimed mostly at console users. Unlike most\
+  \ other viewers, it does not have a fancy GUI, but simply displays images. \nIt\
+  \ is controlled via commandline arguments and configurable key/mouse actions.\n\
+  It is released under a variant of the MIT license. For anything feh-related, you're\
+  \ welcome to join #feh on irc.oftc.net. https://feh.finalrewind.org/\n"
+grade: stable
+name: feh-lreenaers
+summary: feh is an X11 image viewer aimed mostly at console users
+version: 2.18.3-stable
